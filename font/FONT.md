@@ -1,3 +1,10 @@
-# Font family used in the project:
+# Fonts Used in the project are:
 
-1) Croissant One
+* Internal Fonts:
+    * Croissant One.
+
+
+* External Fonts:
+    * Abril Fatface.
+    * Merriweather.
+    * Work Sans.
